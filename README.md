@@ -71,3 +71,7 @@ The site is designed for GitHub Pages and keeps production integrations optional
 
 ### Security rule
 Never commit private API keys, wallet private keys, Supabase service-role keys, or partner credentials. Use a backend/edge function for secrets and paid API access.
+
+
+## Technology Desk
+A dark-first editorial hub with light mode, technology news source links, AI watchlists, comparison cards, and a network of major technology publications.

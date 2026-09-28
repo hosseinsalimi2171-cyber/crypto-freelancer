@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hosseinsalimi2171-cyber.github.io/crypto-freelancer/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "name": "CryptoEngineer",
+  "short_name": "CryptoEngineer",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060912",
+  "theme_color": "#060912",
+  "description": "Crypto, Web3 and digital engineering portfolio"
+}

@@ -59,3 +59,15 @@ The portfolio now covers:
 Every new project page contains a real browser-side interaction: calculations, validation, hashing, structured data generation, planning output, or another deterministic tool result. These are portfolio demonstrations/concepts, not claims of completed client work.
 
 The site is designed for GitHub Pages and keeps production integrations optional. Live APIs, databases, wallets, authentication, smart contracts and server infrastructure can be connected when a production project requires them.
+
+
+## New platform layer
+
+- `market.html` — CoinMarketCap-powered crypto market command center with a clearly labeled fallback snapshot.
+- `learning.html` — Udemy learning hub using direct course search links; consumer Affiliate API is no longer the integration path, while approved Udemy Business partners can use GraphQL/REST APIs.
+- `radar.html` — curated technology discovery links to major original publishers.
+- `integrations.html` — integration documentation plus a read-only EVM wallet connection demo.
+- `manifest.webmanifest`, `robots.txt`, `sitemap.xml` — basic PWA/SEO foundations for GitHub Pages.
+
+### Security rule
+Never commit private API keys, wallet private keys, Supabase service-role keys, or partner credentials. Use a backend/edge function for secrets and paid API access.

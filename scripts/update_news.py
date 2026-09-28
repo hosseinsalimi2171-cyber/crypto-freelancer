@@ -3,11 +3,11 @@
 
 Flow:
 1. Pull recent candidates from public RSS feeds.
-2. Ask OpenAI GPT-5.6 Luna to select the most relevant/trending stories and write short original summaries.
+2. 2. Ask Google Gemini to select the most relevant/trending stories and write short original summaries.
 3. Resolve article images from RSS media or og:image.
 4. Write news-feed.js consumed by the static site.
 
-The OpenAI API key is read only from OPENAI_API_KEY and should never be committed.
+The Gemini API key is read only from GEMINI_API_KEY and should never be committed.
 """
 from __future__ import annotations
 
@@ -26,8 +26,8 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "news-feed.js"
-OPENAI_URL = "https://api.openai.com/v1/responses"
-MODEL = os.getenv("OPENAI_NEWS_MODEL", "gpt-5.6-luna")
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models"
+MODEL = os.getenv("GEMINI_NEWS_MODEL", "gemini-3.6-flash")
 
 FEEDS = {
     "TechCrunch": "https://techcrunch.com/feed/",
@@ -145,32 +145,54 @@ def fetch_feed(source: str, url: str) -> list[dict]:
     return candidates[:12]
 
 
-def openai_text(prompt: str) -> str:
-    key = os.environ.get("OPENAI_API_KEY")
+def gemini_text(prompt: str) -> str:
+    key = os.environ.get("GEMINI_API_KEY")
     if not key:
-        raise RuntimeError("OPENAI_API_KEY is not configured")
+        raise RuntimeError("GEMINI_API_KEY is not configured")
+
+    url = f"{GEMINI_URL}/{MODEL}:generateContent"
+
     payload = {
-        "model": MODEL,
-        "input": prompt,
-        "max_output_tokens": 6000,
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ],
+        "generationConfig": {
+            "maxOutputTokens": 6000
+        }
     }
+
     r = requests.post(
-        OPENAI_URL,
-        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        url,
+        headers={
+            "x-goog-api-key": key,
+            "Content-Type": "application/json",
+        },
         json=payload,
         timeout=90,
     )
-    if not r.ok:
-        raise RuntimeError(f"OpenAI API {r.status_code}: {r.text[:500]}")
-    data = r.json()
-    # Responses API returns output items; collect output_text parts.
-    parts = []
-    for item in data.get("output", []):
-        for content in item.get("content", []) or []:
-            if content.get("type") == "output_text" and content.get("text"):
-                parts.append(content["text"])
-    return "\n".join(parts).strip()
 
+    if not r.ok:
+        raise RuntimeError(f"Gemini API {r.status_code}: {r.text[:500]}")
+
+    data = r.json()
+
+    parts = []
+    for candidate in data.get("candidates", []):
+        content = candidate.get("content", {})
+        for part in content.get("parts", []) or []:
+            if part.get("text"):
+                parts.append(part["text"])
+
+    result = "\n".join(parts).strip()
+
+    if not result:
+        raise RuntimeError("Gemini API returned no text")
+
+    return result
 
 def extract_json(text: str):
     text = text.strip()
@@ -235,9 +257,9 @@ Candidates:
 """ + json.dumps(candidates, ensure_ascii=False)
 
     try:
-        selected = extract_json(openai_text(prompt))
+        selected = extract_json(gemini_text(prompt))
     except Exception as exc:
-        print(f"[openai] failed: {exc}; using deterministic fallback")
+        print(f"[gemini] failed: {exc}; using deterministic fallback")
         selected = [
             {**x, "category": "Technology", "summary": x["summary"] or "Latest technology and AI news from the source publication.", "image": x.get("image", "")}
             for x in candidates[:10]
@@ -266,7 +288,7 @@ Candidates:
         raise RuntimeError(f"AI returned only {len(final)} usable stories")
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    js = "// Auto-generated daily by GitHub Actions + OpenAI. Do not edit manually.\n"
+    js = "// Auto-generated daily by GitHub Actions + Gemini. Do not edit manually.\n"
     js += f"// Last update: {stamp}\nwindow.CENews = " + json.dumps(final, ensure_ascii=False, indent=2) + ";\n"
     OUT.write_text(js, encoding="utf-8")
     print(f"Wrote {len(final)} stories to {OUT}")

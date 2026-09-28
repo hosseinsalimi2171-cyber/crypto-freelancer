@@ -1,11 +1,11 @@
 // Auto-generated daily by GitHub Actions + Gemini. Do not edit manually.
-// Last update: 2026-09-28 18:06 UTC
+// Last update: 2026-09-28 18:21 UTC
 window.CENews = [
   {
     "id": "the-verge-35dee99ab2",
     "source": "The Verge",
     "category": "Technology",
-    "date": "2026-09-28T18:06:30.743913+00:00",
+    "date": "2026-09-28T18:21:14.101897+00:00",
     "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
     "summary": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollout expected in 2027. While the previous iteration is still available and discounted from $429.99, the new \"Next-Gen DiamondClean\" version is debuting […]",
     "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
@@ -15,7 +15,7 @@ window.CENews = [
     "id": "the-verge-fa45a29570",
     "source": "The Verge",
     "category": "Technology",
-    "date": "2026-09-28T18:06:30.743825+00:00",
+    "date": "2026-09-28T18:21:14.101819+00:00",
     "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
     "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within […]",
     "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
@@ -25,7 +25,7 @@ window.CENews = [
     "id": "the-verge-5cbdb0b5a0",
     "source": "The Verge",
     "category": "Technology",
-    "date": "2026-09-28T18:06:30.742574+00:00",
+    "date": "2026-09-28T18:21:14.100580+00:00",
     "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
     "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime […]",
     "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
@@ -35,7 +35,7 @@ window.CENews = [
     "id": "the-verge-c5ed54694a",
     "source": "The Verge",
     "category": "Technology",
-    "date": "2026-09-28T18:06:30.742171+00:00",
+    "date": "2026-09-28T18:21:14.100164+00:00",
     "title": "OpenAI keeps bulldozing mathematicians",
     "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
@@ -45,11 +45,31 @@ window.CENews = [
     "id": "the-verge-523d5e9de5",
     "source": "The Verge",
     "category": "Technology",
-    "date": "2026-09-28T18:06:30.742047+00:00",
+    "date": "2026-09-28T18:21:14.100038+00:00",
     "title": "Florida seeks a ban on ChatGPT acting like a person",
     "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+    "id": "the-next-web-d68befd979",
+    "source": "The Next Web",
+    "category": "Technology",
+    "date": "2026-09-28T18:09:10+00:00",
+    "title": "Meta hires MongoDB CEO CJ Desai to sell its AI to businesses",
+    "summary": "Meta has launched a division to sell its AI tools to businesses, Mark Zuckerberg said on X on Monday. MongoDB chief executive Chirantan “CJ” Desai will run it. “Today we are starting the next major pillar of our business, Meta Enterprise Platform,” Zuckerberg wrote. The unit will first offer Meta’s full technology stack to businesses […] This story continues at The Next Web",
+    "url": "https://thenextweb.com/news/meta-enterprise-platform-cj-desai-mongodb-ceo",
+    "image": "https://media.thenextweb.com/2026/09/mark-zuckerberg-meta-connect-2026-stage-bookshelves.avif"
+  },
+  {
+    "id": "techradar-86b8a9df08",
+    "source": "TechRadar",
+    "category": "Technology",
+    "date": "2026-09-28T18:05:00+00:00",
+    "title": "AI models are becoming outdated at record speed — so what does that mean for the tokens that companies are spending millions on?",
+    "summary": "AI models are becoming quickly outdated as they’re replaced with newer versions Most AI tokens are used on models available for less than four months Open-weight models are now more popular than closed AI models New data from Vercel’s AI Gateway claims AI models are becoming outdated faster than ever as new versions are introduced. Token spend is increasingly on newer models – most of which have only been available for the past three months – and as use increases, token price is dropping. Simultaneously, Vercel's report suggests the open-weight models are beginning to dominate, with the majority of tokens spent on the models with tunable options over the closed black box systems. A key examp",
+    "url": "https://www.techradar.com/pro/ai-models-are-becoming-outdated-at-record-speed-so-what-does-that-mean-for-the-tokens-that-companies-are-spending-millions-on",
+    "image": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-1920-80.jpg"
   },
   {
     "id": "techcrunch-06e9f36bb8",
@@ -80,25 +100,5 @@ window.CENews = [
     "summary": "Red Queen Bio, a biosecurity startup backed by OpenAI, has raised $36 million in total to design antibody drugs against viruses, including ones that AI systems could one day help create, The Wall Street Journal reported. The company is starting with antibodies against bird flu and other influenza viruses and plans its first clinical trials […] This story continues at The Next Web",
     "url": "https://thenextweb.com/news/red-queen-bio-ai-antibodies-openai-wsj",
     "image": "https://media.thenextweb.com/2026/09/red-queen-bio-founders-hannu-rajaniemi-nikolai-eroshenko.avif"
-  },
-  {
-    "id": "techcrunch-0c80d209a6",
-    "source": "TechCrunch",
-    "category": "Technology",
-    "date": "2026-09-28T17:29:50+00:00",
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
-  },
-  {
-    "id": "the-next-web-263eb32793",
-    "source": "The Next Web",
-    "category": "Technology",
-    "date": "2026-09-28T17:28:43+00:00",
-    "title": "Volkswagen’s Canadian battery plant slips to 2029, while its German one is already running",
-    "summary": "Volkswagen’s battery subsidiary PowerCo has delayed its Ontario plant by two years to 2029, and the ID Buzz will skip another American model year. Its Salzgitter plant in Germany has been making cells since December and supplies a new assembly line at SEAT’s Martorell site in Spain. Volkswagen’s battery subsidiary PowerCo has delayed its Ontario […] This story continues at The Next Web",
-    "url": "https://thenextweb.com/news/powerco-ontario-delay-salzgitter",
-    "image": "https://media.thenextweb.com/2026/09/volkswagen-chattanooga-plant-flags.avif"
   }
 ];

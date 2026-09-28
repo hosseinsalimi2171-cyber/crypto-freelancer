@@ -28,7 +28,7 @@ jobs:
       - name: Curate news with Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_NEWS_MODEL: gemini-3.6-flash
+          GEMINI_NEWS_MODEL: gemini-3.5-flash
         run: python scripts/update_news.py
 
       - name: Commit updated news feed

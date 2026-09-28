@@ -25,10 +25,10 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade pip requests
 
-      - name: Curate news with OpenAI
+      - name: Curate news with Gemini
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_NEWS_MODEL: gpt-5.6-luna
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_NEWS_MODEL: gemini-3.6-flash
         run: python scripts/update_news.py
 
       - name: Commit updated news feed

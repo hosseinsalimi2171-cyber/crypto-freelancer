@@ -1,104 +1,104 @@
 // Auto-generated daily by GitHub Actions + Gemini. Do not edit manually.
-// Last update: 2026-09-30 14:13 UTC
+// Last update: 2026-10-01 14:12 UTC
 window.CENews = [
   {
-    "id": "techradar-41e1bda7f9",
-    "source": "TechRadar",
-    "category": "AI & Software",
-    "date": "2026-09-30T14:04:01+00:00",
-    "title": "OpenAI launches ChatGPT Spaces to help humans and agents work together",
-    "summary": "OpenAI has introduced ChatGPT Spaces, a centralized collaboration environment that merges human coworkers, documents, and autonomous AI tools into a single workspace.",
-    "url": "https://www.techradar.com/pro/openai-launches-chatgpt-spaces-to-help-humans-and-agents-work-together",
-    "image": "https://cdn.mos.cms.futurecdn.net/h4tGvKieEfFp59AULbsmVP-1920-80.jpg"
+    "id": "techcrunch-1237634e7f",
+    "source": "TechCrunch",
+    "category": "Artificial Intelligence",
+    "date": "2026-09-30T23:43:07+00:00",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "summary": "Google has launched Gemini 4 Argon, a cutting-edge frontier AI model engineered to excel at advanced coding, creative writing, and cybersecurity defense tasks.",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
   },
   {
-    "id": "techradar-03960b5b17",
-    "source": "TechRadar",
-    "category": "AI & Software",
-    "date": "2026-09-30T11:30:00+00:00",
-    "title": "OpenAI launches Dots, its always-on AI agents that are always watching",
-    "summary": "OpenAI has rolled out Dots, a new class of background AI agents powered by GPT-6 that operate autonomously in their own cloud environments to achieve user-defined goals.",
-    "url": "https://www.techradar.com/pro/openai-launches-dots-its-always-on-ai-agents-that-are-always-watching",
-    "image": "https://cdn.mos.cms.futurecdn.net/V7P8hdhLq2cqbKrePVf46g-1920-80.png"
-  },
-  {
-    "id": "the-verge-1eb6183d72",
-    "source": "The Verge",
-    "category": "AI & Business",
-    "date": "2026-09-30T14:12:57.875378+00:00",
-    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-    "summary": "OpenAI CEO Sam Altman stated that the company will hold off on an initial public offering until it can establish robust, reliable guarantees regarding model safety.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-    "id": "the-next-web-d5fada250e",
+    "id": "the-next-web-43f542d523",
     "source": "The Next Web",
-    "category": "Web3 & Crypto",
-    "date": "2026-09-30T12:00:47+00:00",
-    "title": "Pharos brings AI agents onchain with an Agent Native upgrade for RealFi",
-    "summary": "Pharos Network has launched an Agent Native upgrade at Korea Blockchain Week, integrating protocol-level infrastructure to allow AI agents to act as direct financial participants onchain.",
-    "url": "https://thenextweb.com/news/pharos-agent-native-upgrade-ai-agents-onchain-realfi",
-    "image": "https://media.thenextweb.com/2026/09/pharos-agent-native-upgrade-announcement-graphic-light.avif"
+    "category": "Chips & Developer Technology",
+    "date": "2026-10-01T12:32:36+00:00",
+    "title": "DeepSeek open-sources Huawei chip tools as a simpler alternative to CUDA",
+    "summary": "DeepSeek has open-sourced programming tools and libraries for Huawei’s Ascend AI chips, introducing TileLang as a streamlined alternative to Nvidia’s CUDA.",
+    "url": "https://thenextweb.com/news/deepseek-huawei-ascend-tilelang-open-source-cuda",
+    "image": "https://media.thenextweb.com/2026/04/DeepSeek.avif"
   },
   {
-    "id": "techradar-24618383a1",
+    "id": "techradar-fdf4c4e490",
     "source": "TechRadar",
-    "category": "Cybersecurity & Chips",
-    "date": "2026-09-30T12:55:00+00:00",
-    "title": "Notorious Spectre CPU vulnerability returns hitting JIT engines via side channel attacks",
-    "summary": "Security researchers have uncovered a new practical variant of the Spectre v2 flaw called Branch Target Reuse, which targets just-in-time compilers on Intel-based Linux systems.",
-    "url": "https://www.techradar.com/pro/security/notorious-spectre-cpu-vulnerability-returns-hitting-jit-engines-via-side-channel-attacks",
-    "image": "https://cdn.mos.cms.futurecdn.net/MmSZkX83aFDh9nX7mrMNBK-1920-80.jpg"
+    "category": "Cybersecurity",
+    "date": "2026-10-01T14:00:00+00:00",
+    "title": "UK faces the most state-sponsored cyberattacks in Europe as AI narrows the attack timeline from days to minutes",
+    "summary": "A new Microsoft report warns that the UK is the most heavily targeted country in Europe for state-sponsored cyber activity as AI dramatically accelerates threat timelines.",
+    "url": "https://www.techradar.com/pro/security/uk-faces-the-most-state-sponsored-cyberattacks-in-europe-as-ai-narrows-the-attack-timeline-from-days-to-minutes",
+    "image": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg"
   },
   {
-    "id": "the-verge-719d3195b2",
-    "source": "The Verge",
-    "category": "AI Policy",
-    "date": "2026-09-30T14:12:57.875453+00:00",
-    "title": "Trump orders US government to call AI ‘Super Intelligence’",
-    "summary": "A new executive order signed by President Donald Trump mandates that all US federal agencies replace the term 'artificial intelligence' with 'Super Intelligence' across official documents.",
-    "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "id": "the-next-web-3ae3bb5d78",
+    "source": "The Next Web",
+    "category": "Chips & Infrastructure",
+    "date": "2026-10-01T13:51:54+00:00",
+    "title": "Nvidia-backed GMI Cloud raises $668m as contracted revenue tops $600m",
+    "summary": "Mountain View-based GPU server rental firm GMI Cloud has secured $668 million in fresh equity and credit financing to fuel its expanding AI infrastructure operations.",
+    "url": "https://thenextweb.com/news/gmi-cloud-668m-series-b-nvidia-archiv-ctbc",
+    "image": "https://media.thenextweb.com/2026/10/alex-yeh-gmi-cloud-ceo-navy-jacket-interview.avif"
   },
   {
-    "id": "the-verge-56d9469e64",
-    "source": "The Verge",
-    "category": "Hardware & Platforms",
-    "date": "2026-09-30T14:12:57.875302+00:00",
-    "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
-    "summary": "Apple is reportedly planning to debut its long-awaited smart home hub alongside an updated HomePod mini and upgraded Apple TV on October 13th.",
-    "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-    "id": "techcrunch-4a7426e1fd",
+    "id": "techcrunch-2be59ecee0",
     "source": "TechCrunch",
-    "category": "AI Business",
-    "date": "2026-09-29T19:52:37+00:00",
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "summary": "OpenAI is reportedly engaging investors for a massive $30 billion funding round that would value the AI titan at $1.4 trillion ahead of a planned public debut.",
-    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800"
+    "category": "Developer Technology",
+    "date": "2026-10-01T14:00:00+00:00",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+    "summary": "Startup Photon has raised $4.5 million to provide developers with infrastructure for building AI agents that operate directly over messaging and email platforms.",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801"
   },
   {
-    "id": "techcrunch-6421ca8555",
-    "source": "TechCrunch",
-    "category": "Software & Developer Tech",
-    "date": "2026-09-29T20:15:47+00:00",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "summary": "By turning ChatGPT into a unified ecosystem where software can be seamlessly discovered and executed by users and autonomous agents, OpenAI is challenging traditional app stores.",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    "id": "wired-dce43d9a01",
+    "source": "Wired",
+    "category": "Product Launches",
+    "date": "2026-10-01T10:00:00+00:00",
+    "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
+    "summary": "Apple's latest Mac Studio powered by the M5 Ultra chip demonstrates remarkable local performance, easily handling frontier-level AI language models.",
+    "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
+    "image": "https://media.wired.com/photos/6abd4374ca34b0376fb751e0/master/pass/Review%20Apple%20Mac%20Studio%20(M5%20Ultra)%20092026%20top%20art%20SOURCE%20Amazon.jpg"
   },
   {
-    "id": "techradar-6637f6b2ae",
+    "id": "techradar-cdb60ee41c",
     "source": "TechRadar",
-    "category": "AI & Software",
-    "date": "2026-09-30T14:00:00+00:00",
-    "title": "Meta targets SMBs with Muse AI that can run your business for you - but will anyone actually need it?",
-    "summary": "Meta has expanded its agentic AI platform with Muse for Small Business, allowing automated agents to handle administrative workloads and customer outreach independently.",
-    "url": "https://www.techradar.com/pro/meta-targets-smbs-with-muse-ai-that-can-run-your-business-for-you",
-    "image": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png"
+    "category": "Cybersecurity & Compliance",
+    "date": "2026-10-01T13:51:03+00:00",
+    "title": "If an AI agent is attesting your controls, who’s attesting the agent?",
+    "summary": "As organizations increasingly deploy autonomous AI agents to manage security controls and compliance audits, industry experts highlight new vulnerabilities in validating the agents themselves.",
+    "url": "https://www.techradar.com/pro/if-an-ai-agent-is-attesting-your-controls-whos-attesting-the-agent",
+    "image": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg"
+  },
+  {
+    "id": "techcrunch-de11222dc2",
+    "source": "TechCrunch",
+    "category": "Developer Technology",
+    "date": "2026-10-01T12:00:00+00:00",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "summary": "Orbital computing startup Satlyt has secured $8 million to build open software that brings AI processing directly to third-party satellites.",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800"
+  },
+  {
+    "id": "techcrunch-6e1523d277",
+    "source": "TechCrunch",
+    "category": "Artificial Intelligence",
+    "date": "2026-09-30T18:23:57+00:00",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "summary": "Leading generative AI voice technology company ElevenLabs has seen its valuation double to $22 billion following a major employee share tender offer.",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+  },
+  {
+    "id": "wired-04e15d4b0a",
+    "source": "Wired",
+    "category": "Artificial Intelligence",
+    "date": "2026-09-29T17:15:00+00:00",
+    "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "summary": "OpenAI has introduced 'Dots,' a new category of always-on proactive AI agents designed to integrate with apps and execute multi-step user tasks.",
+    "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png"
   }
 ];

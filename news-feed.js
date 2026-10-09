@@ -1,104 +1,104 @@
 // Auto-generated daily by GitHub Actions + Gemini. Do not edit manually.
-// Last update: 2026-10-08 14:12 UTC
+// Last update: 2026-10-09 14:11 UTC
 window.CENews = [
   {
-    "id": "techradar-69fe0fd123",
-    "source": "TechRadar",
-    "category": "Software",
-    "date": "2026-10-08T13:20:00+00:00",
-    "title": "Nine in 10 VMware customer looking to switch vendors due to increased licensing costs",
-    "summary": "A new survey indicates that 90% of VMware customers are considering switching vendors due to soaring licensing costs following Broadcom's acquisition.",
-    "url": "https://www.techradar.com/pro/nine-in-10-vmware-customer-looking-to-switch-vendors-due-to-increased-licensing-costs",
-    "image": "https://cdn.mos.cms.futurecdn.net/Vr7mkRg2vWt7rkVG7uC2a6-1920-80.jpg"
-  },
-  {
-    "id": "the-next-web-9e05892b18",
-    "source": "The Next Web",
-    "category": "Web3",
-    "date": "2026-10-08T13:00:31+00:00",
-    "title": "NextBlock backs Soda Labs with $3M to bring privacy to public blockchains",
-    "summary": "Soda Labs has secured a $3 million seed round led by NextBlock to develop programmable privacy infrastructure for financial institutions using public blockchains.",
-    "url": "https://thenextweb.com/news/nextblock-soda-labs-3m-seed-privacy-public-blockchains",
-    "image": "https://media.thenextweb.com/2026/10/pieter-van-poecke-navy-blazer-arms-crossed.avif"
-  },
-  {
-    "id": "techradar-8aec4796b6",
-    "source": "TechRadar",
-    "category": "Hardware",
-    "date": "2026-10-08T13:00:00+00:00",
-    "title": "The Alexa Tablet 12 Pro is Amazon's first full-Android tablet — and it might rival the iPad Air",
-    "summary": "Amazon has dropped its Fire OS branding and launched the Alexa Tablet 12 Pro, marking its first full-Android tablet with direct Google Play Store access.",
-    "url": "https://www.techradar.com/tablets/amazons-first-full-android-tablet-is-a-cheaper-ipad-air-rival-that-doesnt-in-any-way-force-you-to-compromise-according-to-the-vp-of-amazon-devices-i-got-the-inside-track-on-the-alexa-tablet-12-pro",
-    "image": "https://cdn.mos.cms.futurecdn.net/iQqLCMDFjdHbxn4SGDe9DC-1920-80.jpg"
-  },
-  {
-    "id": "the-next-web-d18f22fa34",
-    "source": "The Next Web",
+    "id": "the-verge-9d224b7277",
+    "source": "The Verge",
     "category": "Chips & Hardware",
-    "date": "2026-10-08T12:56:38+00:00",
-    "title": "DARPA moves Atom Computing, IBM, IonQ and Diraq to final quantum test stage",
-    "summary": "DARPA has advanced Atom Computing, Diraq, IBM, and IonQ into the final evaluation phase of its Quantum Benchmarking Initiative to test scalable quantum computers.",
-    "url": "https://thenextweb.com/news/quantum-computer-atom-computing-ibm-ionq-diraq-stage-c",
-    "image": "https://media.thenextweb.com/2026/10/atom-computing-neutral-atom-quantum-laser-optics-violet.avif"
+    "date": "2026-10-09T14:11:50.828966+00:00",
+    "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+    "summary": "AMD consumer chip chief Jack Huynh has confirmed that the frame-enhancing FSR 4 technology will officially launch on select gaming handhelds by the end of 2026.",
+    "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
-    "id": "the-next-web-6db9022ce1",
+    "id": "the-verge-df7e543380",
+    "source": "The Verge",
+    "category": "Cybersecurity & AI",
+    "date": "2026-10-09T14:11:50.828852+00:00",
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "summary": "Anthropic has introduced OSS Scanner, a new service offering opt-in open-source projects free, periodic vulnerability scans powered by its strongest AI models.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+    "id": "the-verge-225886f79c",
+    "source": "The Verge",
+    "category": "Software & Major Platforms",
+    "date": "2026-10-09T14:11:50.828741+00:00",
+    "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+    "summary": "Microsoft is updating its 365 Family and Premium plans to allow multiple users to share Copilot and AI features alongside Office apps and cloud storage.",
+    "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+    "id": "the-next-web-1751fcee0d",
     "source": "The Next Web",
-    "category": "Chips & Hardware",
-    "date": "2026-10-08T12:50:29+00:00",
-    "title": "Nvidia-backed Upscale AI launches platform to link chips from rival makers",
-    "summary": "Nvidia-backed startup Upscale AI has debuted Token Fabric, an open-standards networking platform designed to connect AI chips from diverse manufacturers in data centers.",
-    "url": "https://thenextweb.com/news/upscale-ai-token-fabric-nvidia-ai-chip-networking",
-    "image": "https://media.thenextweb.com/2026/08/Nvidia.avif"
+    "category": "Artificial Intelligence",
+    "date": "2026-10-09T13:21:50+00:00",
+    "title": "EU’s cyber agency and research centre are testing Chinese AI models",
+    "summary": "EU officials have confirmed that the bloc's cyber agency, ENISA, and the Joint Research Centre are actively evaluating open-weight AI models released from China.",
+    "url": "https://thenextweb.com/news/eu-enisa-jrc-testing-chinese-ai-models",
+    "image": "https://media.thenextweb.com/2026/08/European-flags-Berlaymont.avif"
   },
   {
-    "id": "techradar-5759f83df4",
+    "id": "techradar-eb4ac36ff0",
     "source": "TechRadar",
-    "category": "Software",
-    "date": "2026-10-08T11:22:17+00:00",
-    "title": "Microsoft promises to make Windows 11 search better — and it's about time",
-    "summary": "Microsoft is testing an overhauled Windows 11 search feature built on WinUI 3 that promises lower RAM usage, higher speeds, and direct in-search actions.",
-    "url": "https://www.techradar.com/computing/windows/microsoft-finally-looks-to-fix-windows-11-search-itll-be-faster-and-lighter-on-ram-usage-with-nifty-new-actions",
-    "image": "https://cdn.mos.cms.futurecdn.net/hi3sE3xZdA5gKLTMyCUDAE-1920-80.jpg"
+    "category": "Cybersecurity & Software",
+    "date": "2026-10-09T13:05:00+00:00",
+    "title": "Microsoft Teams will soon be able to spot third-party deepfakes on your morning meeting",
+    "summary": "Microsoft is rolling out new security features to Microsoft Teams in November 2026, introducing third-party deepfake detection and identity misrepresentation warnings.",
+    "url": "https://www.techradar.com/pro/microsoft-teams-will-soon-be-able-to-spot-third-party-deepfakes-on-your-morning-meeting",
+    "image": "https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc-1920-80.jpg"
   },
   {
-    "id": "engadget-56912bee41",
+    "id": "techcrunch-66a844307a",
+    "source": "TechCrunch",
+    "category": "Artificial Intelligence",
+    "date": "2026-10-08T18:19:45+00:00",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "summary": "The organization behind the LMArena model comparison leaderboard has secured $200 million in funding, pushing its valuation to $3.1 billion.",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801"
+  },
+  {
+    "id": "techcrunch-47672f48bb",
+    "source": "TechCrunch",
+    "category": "Artificial Intelligence",
+    "date": "2026-10-08T18:18:00+00:00",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "summary": "Google has expanded Gemini into a fully agentic system capable of planning tasks, delegating work to subagents across business apps, and utilizing its own dedicated workplace email identity.",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591"
+  },
+  {
+    "id": "techcrunch-e9412c80c2",
+    "source": "TechCrunch",
+    "category": "Cybersecurity & AI",
+    "date": "2026-10-08T16:00:00+00:00",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "summary": "Goodfire has launched a cost-effective monitoring tool that inspects the internal states of AI models while they execute tasks to flag rogue behavior without relying on redundant external LLMs.",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
+  },
+  {
+    "id": "techcrunch-d12d77aa7d",
+    "source": "TechCrunch",
+    "category": "Developer Technology & Hardware",
+    "date": "2026-10-08T16:00:00+00:00",
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "summary": "Natura has unveiled a $99 smart ring that functions as a dual fitness tracker and hardware trigger to summon AI agents for voice tasks and device control.",
+    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
+  },
+  {
+    "id": "engadget-825fbf5551",
     "source": "Engadget",
-    "category": "Artificial Intelligence",
-    "date": "2026-10-08T08:45:16+00:00",
-    "title": "GPT-6 is coming to all tiers of ChatGPT",
-    "summary": "OpenAI is rolling out its next-generation GPT-6 model across all ChatGPT tiers, bringing enhanced multimodal performance and advanced visual response generation.",
-    "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/",
-    "image": "https://www.engadget.com/img/gallery/gpt-6-is-coming-to-all-tiers-chatgpt/l-intro-1791449039.jpg"
-  },
-  {
-    "id": "mashable-8b7fd27c2c",
-    "source": "Mashable",
-    "category": "Developer Technology",
-    "date": "2026-10-07T21:38:14+00:00",
-    "title": "Miss browser games? Google wants you to build your own with AI",
-    "summary": "Google Playground has launched in the US, allowing adults to design and share AI-driven browser games using simple text prompts without writing code.",
-    "url": "https://mashable.com/tech/google-playground-ai-browser-game-creation",
-    "image": "https://helios-i.mashable.com/imagery/articles/01LI8kWtIOmq8bd8H9kVK8T/hero-image.png"
-  },
-  {
-    "id": "wired-ed38d420f2",
-    "source": "Wired",
-    "category": "Robotics",
-    "date": "2026-10-07T18:45:00+00:00",
-    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-    "summary": "Engineers tested various large language models to control a physical Toyota Corolla on a fast-food run, showcasing the current state of autonomous driving experiments.",
-    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-    "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
-  },
-  {
-    "id": "wired-8479109fec",
-    "source": "Wired",
-    "category": "Artificial Intelligence",
-    "date": "2026-10-07T11:00:00+00:00",
-    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-    "summary": "Initial tests of OpenAI's new autonomous consumer agent, Dots, reveal both promising task-automation capabilities and occasional eccentric glitches.",
-    "url": "https://www.wired.com/story/openai-want-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-    "image": "https://media.wired.com/photos/6ac4bbcf3487dc6fde4862bd/master/pass/100626-Dots%20Couch.jpg"
+    "category": "Crypto & Web3",
+    "date": "2026-10-09T10:54:19+00:00",
+    "title": "Netflix releases trailer for its miniseries about Sam Bankman-Fried's scandal-ridden crypto exchange",
+    "summary": "Netflix has debuted the official trailer for 'The Altruists', an upcoming miniseries detailing the dramatic rise and collapse of Sam Bankman-Fried's FTX cryptocurrency exchange.",
+    "url": "https://www.engadget.com/2281997/netflix-the-altruists-sam-bankman-fried-trailer/",
+    "image": "https://www.engadget.com/img/gallery/netflix-releases-trailer-for-its-miniseries-about-sam-bankman-frieds-scandal-ridden-crypto-exchange/l-intro-1791543220.jpg"
   }
 ];
